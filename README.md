@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anything
 - 😄 Pronouns: he/him
 
-### Github Statistic
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/yusrabudiman">
