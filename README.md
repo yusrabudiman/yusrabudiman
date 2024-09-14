@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8ee32875-e9aa-4176-b7f1-16cb5ede1594)## Hi there 👋
+## Hi there 👋
 
 
 **yusrabudiman/yusrabudiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
